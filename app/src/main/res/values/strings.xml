@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NewsApp</string>
+
+    <!--    General Strings-->
+    <string name="string_no_internet">No Internet Connection Found</string>
+    <string name="string_connection_failed">Connection Failed. Try Again</string>
+    <string name="string_response_issue">Backend Response Issue. Try Again</string>
+    <string name="string_press_again_to_exit">Press again to exit</string>
+    <string name="string_its_empty">required</string>
+    <string name="string_something_wrong">Something went wrong. Try Again</string>
+    <string name="string_ok">OK</string>
+    <string name="string_cancel">Cancel</string>
+
 </resources>
