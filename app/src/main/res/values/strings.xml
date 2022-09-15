@@ -11,4 +11,6 @@
     <string name="string_ok">OK</string>
     <string name="string_cancel">Cancel</string>
 
+    <string name="string_no_news_found">No News Found</string>
+
 </resources>

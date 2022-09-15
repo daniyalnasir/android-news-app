@@ -5,7 +5,7 @@ object APIKeys {
     const val SUCCESS_RESPONSE = 200
 
     /*API response Key*/
-    const val KEY_GET_CITY_API: String = "getCityApi"
+    const val KEY_GET_NEWS_API: String = "getNewsApi"
 
     /* API parameters */
     const val USER_TYPE: String = "USER"
